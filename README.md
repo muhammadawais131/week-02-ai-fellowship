@@ -1,1 +1,1 @@
-# week-02-ai-fellowship
+#Assignment week-02-ai-fellowship
